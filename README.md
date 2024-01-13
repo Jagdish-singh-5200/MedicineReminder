@@ -1,7 +1,7 @@
 # MedicineReminder
 
 Demo :-
-🟠 
+🟠 https://jagdish-singh-5200.github.io/MedicineReminder/
 
 About the Project :-
 
@@ -9,4 +9,4 @@ About the Project :-
 
 Built With :-
 
-🟠 HTML 🟠 Pure CSS 🟠 Vanilla Javascript
+🟠 HTML 🟠 CSS 🟠 Javascript
